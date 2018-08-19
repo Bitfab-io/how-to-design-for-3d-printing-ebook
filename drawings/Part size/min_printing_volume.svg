@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+	width="210mm"
+	height="297mm"
+	viewBox="0 0 210 297">
+	<!-- Working space 0 0 210 297 -->
+	<defs>
+		<radialGradient
+			id="radialGradient3661"
+			gradientUnits="userSpaceOnUse"
+			cy="29.149"
+			cx="282.65"
+			gradientTransform="matrix(.14777 .23089 -.24680 .15795 -26.318 -62.617)"
+			r="19.571">
+				<stop stop-color="#71b2f8" offset="0"/>
+				<stop stop-color="#002795" offset="1"/>
+		</radialGradient>
+		<radialGradient
+			id="radialGradient3817"
+			gradientUnits="userSpaceOnUse"
+			cy="33.9"
+			cx="270.58"
+			gradientTransform="matrix(.26631 .065024 -.17931 .73438 -60.668 -36.938)"
+			r="19.571">
+				<stop stop-color="#ff6d0f" offset="0"/>
+				<stop stop-color="#ff1000" offset="1"/>
+		</radialGradient>
+	</defs>
+	<!-- Set display:none to hide FreeCAD Logo -->
+	<g
+		style="display:inline"
+		id="freecad-logo"
+		transform="translate(184, 272) scale(1)"
+		fill-rule="evenodd"
+		stroke-width=".45621">
+		<path d="m0.22811 0.22835v13.256h2.9558v-5.1876h2.09v-2.0452h-2.09v-2.2075h5.1486v-3.8087l-8.1044-0.0075z"
+			stroke="#370700"
+			fill="url(#radialGradient3817)"/>
+		<path d="m13.386 4.1792-1.7193 0.98645-0.75925-0.26348-0.72439-1.8513-1.1395 0.05988-0.51976 1.9144-0.72743 0.34835-1.8143-0.79367-0.76632 0.85156 0.98645 1.7193-0.26957 0.75702-1.8513 0.72439 0.065967 1.1417 1.9144 0.51976 0.34835 0.72743-0.79976 1.8121 0.85156 0.76632 1.7193-0.98645 0.76311 0.27179 0.7183 1.8491 1.1478-0.06375 0.51367-1.9166 0.72743-0.34835 1.8182 0.80198 0.76632-0.85156-0.98645-1.7193 0.2657-0.76533 1.8491-0.7183-0.05766-1.1456-1.9166-0.51367-0.34835-0.72743 0.7959-1.8204-0.85156-0.76632zm-2.5751 2.8195 0.35295 0.20478 0.30579 0.27725 0.24481 0.33087 0.17611 0.36787 0.10354 0.39656 0.01715 0.4064-0.0587 0.4063-0.13396 0.38571-0.2131 0.35681-0.26894 0.30192-0.33087 0.24481-0.36787 0.17611-0.39656 0.10354-0.40863 0.02325-0.4063-0.0587-0.38571-0.13396-0.35681-0.2131-0.2997-0.27503-0.24703-0.32478-0.17611-0.36787-0.10132-0.40264-0.02324-0.40863 0.05869-0.4063 0.13396-0.38571 0.21087-0.35072 0.27116-0.30801 0.33087-0.24481 0.36787-0.17611 0.40264-0.10132 0.40641-0.01715 0.4063 0.05869 0.38571 0.13396z" 
+		stroke="#000137"
+		fill="url(#radialGradient3661)"/>
+	</g>
+<g id="View"
+   transform="rotate(60,80.2513,162.789) translate(80.2513,162.789) scale(0.1,0.1)"
+  >
+<g   stroke="rgb(0, 0, 0)"
+   stroke-width="1.5"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-dasharray="0.2,0.1"
+   fill="none"
+   transform="scale(1,-1)"
+  >
+<path id= "1" d=" M 0 81.6497 L -70.7107 122.474 " />
+<path id= "2" d=" M 0 0 L 0 81.6497 " />
+<path id= "3" d=" M 0 81.6497 L 70.7107 122.474 " />
+</g>
+<g   stroke="rgb(0, 0, 0)"
+   stroke-width="3.5"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   fill="none"
+   transform="scale(1,-1)"
+  >
+<path id= "1" d=" M 0 0 L -70.7107 40.8248 " />
+<path id= "2" d=" M -70.7107 40.8248 L -70.7107 122.474 " />
+<path id= "3" d=" M 70.7107 40.8248 L -1.42109e-14 81.6497 " />
+<path id= "4" d=" M 0 81.6497 L 0 163.299 " />
+<path id= "5" d=" M 70.7107 122.474 L -1.42109e-14 163.299 " />
+<path id= "6" d=" M 70.7107 40.8248 L 70.7107 122.474 " />
+<path id= "7" d=" M 0 0 L 70.7107 40.8248 " />
+<path id= "8" d=" M -70.7107 40.8248 L 1.42109e-14 81.6497 " />
+<path id= "9" d=" M -70.7107 122.474 L 1.42109e-14 163.299 " />
+</g>
+</g>
+
+
+
+<g> 
+  <line x1="88.322366" y1="168.603537" x2="92.600220" y2="176.012996" style="stroke:rgb(0,0,255);stroke-width:0.30" />
+<line x1="95.393395" y1="164.521077" x2="99.671248" y2="171.930536" style="stroke:rgb(0,0,255);stroke-width:0.30" />
+<line x1="92.100220" y1="175.146971" x2="99.171248" y2="171.064511" style="stroke:rgb(0,0,255);stroke-width:0.30" /> 
+  <polygon points="99.171248,171.064511 102.269324,170.430536 102.635349,169.064511 101.269324,168.698485" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /><polygon points="92.100220,175.146971 89.002143,175.780945 88.636118,177.146971 90.002143,177.512996" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /> 
+  <text x="94.635734" y="171.373690" font-family="Verdana" font-size="3.6" fill="rgb(255,0,0)" text-anchor="middle" transform="rotate(-30.000000 94.635734,171.373690)" >81.649</text> </g>
+
+
+<g> 
+  <line x1="79.251299" y1="164.521050" x2="74.499592" y2="172.751240" style="stroke:rgb(0,0,255);stroke-width:0.30" />
+<line x1="86.322366" y1="168.603537" x2="81.570658" y2="176.833727" style="stroke:rgb(0,0,255);stroke-width:0.30" />
+<line x1="74.999592" y1="171.885215" x2="82.070659" y2="175.967702" style="stroke:rgb(0,0,255);stroke-width:0.30" /> 
+  <polygon points="82.070659,175.967702 84.168734,178.333728 85.534759,177.967703 85.168735,176.601678" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /><polygon points="74.999592,171.885215 72.901517,169.519189 71.535492,169.885214 71.901516,171.251239" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /> 
+  <text x="76.803075" y="172.926458" font-family="Verdana" font-size="3.6" fill="rgb(255,0,0)" text-anchor="middle" transform="rotate(-59.999975 76.803075,172.926458)" >81.65</text> </g>
+
+
+<g> 
+  <line x1="78.251300" y1="162.789001" x2="69.612775" y2="162.789005" style="stroke:rgb(0,0,255);stroke-width:0.30" />
+<line x1="78.251296" y1="154.624035" x2="69.612771" y2="154.624038" style="stroke:rgb(0,0,255);stroke-width:0.30" />
+<line x1="70.612775" y1="162.789004" x2="70.612771" y2="154.624038" style="stroke:rgb(0,0,255);stroke-width:0.30" /> 
+  <polygon points="70.612771,154.624038 71.612770,151.624038 70.612770,150.624038 69.612770,151.624038" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /><polygon points="70.612775,162.789004 69.612776,165.789005 70.612777,166.789004 71.612776,165.789004" style="fill:rgb(0,0,255);stroke:rgb(0,0,255);stroke-width:0" /> 
+  <text x="68.612773" y="158.706522" font-family="Verdana" font-size="3.6" fill="rgb(255,0,0)" text-anchor="middle" transform="rotate(-90.000025 68.612773,158.706522)" >81.65</text> </g>
+
+
+</svg>
+
